@@ -3,7 +3,7 @@ import HeroSection from "../components/HeroSection";
 import ThemeToggle from "../components/ThemeToggle";
 import StarBackground from "../components/StarBackground";
 import Navbar from "../components/Navbar";
-import AboutMe from "../components/AboutMe";
+import AboutMe from "../components/AboutMeTemp";
 import Skills from "../components/Skills"; // capital S
 import Project from "../components/Project";
 import ContactSection from "../components/ContactSection";
