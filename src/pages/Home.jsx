@@ -3,7 +3,7 @@ import HeroSection from "../components/HeroSection";
 import ThemeToggle from "../components/ThemeToggle";
 import StarBackground from "../components/StarBackground";
 import Navbar from "../components/Navbar";
-import AboutMe from "../components/Aboutme";
+import AboutMe from "../components/AboutMe";
 import Skills from "../components/skills";
 import Project from "../components/Project";
 import ContactSection from "../components/ContactSection";
@@ -22,7 +22,7 @@ export const Home = () => {
 
       <main>
         <HeroSection />
-        <AboutMe />
+        <AboutMe/>
         <Skills />
         <Project />
         <ContactSection />
