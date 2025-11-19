@@ -7,7 +7,7 @@ import AboutMe from "../components/AboutMe";
 import Skills from "../components/Skills"; // capital S
 import Project from "../components/Project";
 import ContactSection from "../components/ContactSection";
-import Footer from "../components/Footer"; // use default import if default export
+import Footer from "../components/Footer";
 
 export const Home = () => {
   return (
