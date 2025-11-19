@@ -4,10 +4,10 @@ import ThemeToggle from "../components/ThemeToggle";
 import StarBackground from "../components/StarBackground";
 import Navbar from "../components/Navbar";
 import AboutMe from "../components/AboutMe";
-import Skills from "../components/skills";
+import Skills from "../components/Skills"; // capital S
 import Project from "../components/Project";
 import ContactSection from "../components/ContactSection";
-import { Footer } from "../components/Footer";
+import Footer from "../components/Footer"; // use default import if default export
 
 export const Home = () => {
   return (
@@ -22,7 +22,7 @@ export const Home = () => {
 
       <main>
         <HeroSection />
-        <AboutMe/>
+        <AboutMe />
         <Skills />
         <Project />
         <ContactSection />
